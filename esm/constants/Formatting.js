@@ -1,0 +1,1 @@
+export var CUSTOM_TIME_DEFAULT_FORMAT = '%d-%m-%Y';
